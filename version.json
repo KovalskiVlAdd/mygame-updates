@@ -1,0 +1,8 @@
+{
+  "launcher": {
+    "version": "1.0.0",
+    "downloadUrl": "https://unrivaled-boba-2ecef1.netlify.app/game_v1.0.0.zip",
+    "executable": "Game\\Game\\MyGameLauncher0.0.1\\MyGameLauncher0.0.1\\bin\\Debug\\MyGameLauncher0.0.1.exe",
+    "gameExecutable": "Game\\Game\\TestProject.exe"
+  }
+}
