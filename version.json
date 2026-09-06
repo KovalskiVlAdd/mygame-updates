@@ -3,6 +3,6 @@
     "version": "0.0.1",
     "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/tag/v0.0.1/MyGameLauncher.zip",
     "executable": "Game\\Game\\MyGameLauncher0.0.1\\MyGameLauncher0.0.1\\bin\\Debug\\MyGameLauncher0.0.1.exe",
-    "gameExecutable": "Game\\TestProject.exe"
+    "gameExecutable": "TestProject.exe"
   }
 }
