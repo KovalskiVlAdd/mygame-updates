@@ -1,13 +1,9 @@
 {
-  "launcher": { 
-    "version": "1.0.0",
-    "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v1.0.0/MyGameLauncher.zip",
-    "executable": "MyGameLauncher.exe",
-    "gameExecutable": "Game\\MyGameLauncher0.0.2.exe"
-  },
-  "game": {
-    "version": "0.0.2",
-    "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v0.0.2/MyGameLauncher.zip",
-    "gameExecutable": "Game\\MyGameLauncher0.0.2.exe"
+  "version": "0.0.2",
+  "files": {
+    "Game/MyGameLauncher0.0.2.exe": "a1b2c3d4e5f6...",
+    "Game/version.txt": "123456789...",
+    "Game/Config/settings.ini": "abcdef...",
+    "Game/Assets/player.png": "xyz123..."
   }
 }
