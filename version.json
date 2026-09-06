@@ -2,7 +2,7 @@
   "launcher": { "version": "1.0.0" },
   "game": {
     "version": "0.0.1",
-    "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v0.0.1/MyGameLauncher.zip",
+    "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v0.0.2/MyGameLauncher.zip",
     "gameExecutable": "Game\\Game\\MyGameLauncher0.0.1\\MyGameLauncher0.0.1\\bin\\Debug\\MyGameLauncher0.0.1.exe"
   }
 }
