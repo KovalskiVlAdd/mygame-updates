@@ -5,7 +5,7 @@
     "game":  {
                  "version":  "0.0.4",
                  "downloadUrl":  "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v0.0.4/MyGameLauncher.zip",
-                 "gameExecutable":  "TestProject.exe",
+                 "gameExecutable":  "Game\\TestProject.exe",
                  "exeHash":  "B54B38E75F18D2EB3571BD62D63AA7065616ACC5DF89B26D21CDD5E5315A46C6"
              }
 }
