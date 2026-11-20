@@ -2,10 +2,21 @@
   "launcher": {
     "version": "1.0.0"
   },
+  "news": "Приветствую! Это тест версии 0.14221.",
+  "links": {
+    "discord": "https://discord.gg/ваш_код",
+    "website": "https://ваш-сайт.com",
+    "support": "https://ваш-сайт.com/support"
+  },
   "game": {
     "version": "0.14221",
     "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v0.0.4/MyGameLauncher.zip",
     "downloadSha256": "e099a2566dac260681c3ab17a2800268953be1406305b4dd7ecb18d370a755a8",
-    "gameExecutable": "Game/TestProject.exe"
+    "gameExecutable": "Game/TestProject.exe",
+    "changelog": [
+      "Интерфейс игры был изменен",
+      "Эффект попадания из оружия был изменен",
+      "Улучшена производительность"
+    ]
   }
 }
