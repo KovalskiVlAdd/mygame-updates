@@ -9,9 +9,9 @@
     "support": "https://ваш-сайт.com/support"
   },
   "game": {
-    "version": "1.0",
+    "version": "1.05",
     "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v0.0.4/MyGameLauncher.zip",
-    "downloadSha256": "BCF29A82B81C4D5C7F85941888BFBC7E91DE870E6E3C74CAFDE8518C5EA56316",
+    "downloadSha256": "5F98B07F5244D010C7DD9BC965DEFCE7E0BF340BD741646ED5DD6DE8D012B6D0",
     "gameExecutable": "Game/TestProject.exe",
     "changelog": [
       "Интерфейс игры был изменен",
