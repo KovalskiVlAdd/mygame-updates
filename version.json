@@ -1,6 +1,6 @@
 {
   "launcher": {
-    "version": "1.0.0"
+    "version": "1.0"
   },
   "news": "Приветствую! Это тест версии 1.0",
   "links": {
@@ -11,7 +11,7 @@
   "game": {
     "version": "1.05",
     "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v0.0.4/MyGameLauncher.zip",
-    "downloadSha256": "5F98B07F5244D010C7DD9BC965DEFCE7E0BF340BD741646ED5DD6DE8D012B6D0",
+    "downloadSha256": "5B1ED2F311215F707BAA0F4D784F3C266D00FA137D771C7697628895B14BEEE9",
     "gameExecutable": "Game/TestProject.exe",
     "changelog": [
       "Интерфейс игры был изменен",
@@ -19,7 +19,8 @@
       "Эффект попадания из оружия был изменен",
       "Улучшена производительность",
       "Добавлен эффект кровотечения от оружия",
-      "Добавлено новое оружие"
+      "Добавлено новое оружие",
+      "Добавлена новая карта Форпост"
     ]
   }
 }
