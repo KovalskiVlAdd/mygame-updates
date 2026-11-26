@@ -11,7 +11,7 @@
   "game": {
     "version": "1.05",
     "downloadUrl": "https://github.com/KovalskiVlAdd/mygame-updates/releases/download/v0.0.4/MyGameLauncher.zip",
-    "downloadSha256": "D81AD42BBEE45263423831C38ECC30CB62E56C2F76170D14D5731A59E25C78A7",
+    "downloadSha256": "C653314A3B41289003F1D0F38A59AF2AC5F0075194565BC8FC7DC1B41CF4356E",
     "gameExecutable": "Game/TestProject.exe",
     "changelog": [
       "Интерфейс игры был изменен",
